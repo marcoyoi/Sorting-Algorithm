@@ -65,7 +65,7 @@ print(result)
 #### 1.Selection sort
 ![Alt text](Selection_sort.png)
 
-#### 2.insertion sort
+#### 2.Insertion sort
 ![Alt text](insertion_sort.png)
 
 ## Result:
